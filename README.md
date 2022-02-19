@@ -1,1 +1,2 @@
 # hydraFastScript
+因为我本人懒得记指令，所以看哪个工具麻烦而且经常用就些什么，放在kali上运行，主机必须安装hydra，主要是调用os.system执行系统命令
